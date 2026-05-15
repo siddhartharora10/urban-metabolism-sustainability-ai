@@ -1,0 +1,17 @@
+Column,DataType,MissingValues
+City,object,0
+Date,datetime64[ns],0
+PM2.5,float64,4598
+PM10,float64,11140
+NO,float64,3582
+NO2,float64,3585
+NOx,float64,4185
+NH3,float64,10328
+CO,float64,2059
+SO2,float64,3854
+O3,float64,4022
+Benzene,float64,5623
+Toluene,float64,8041
+Xylene,float64,18109
+AQI,float64,4681
+AQI_Bucket,object,4681

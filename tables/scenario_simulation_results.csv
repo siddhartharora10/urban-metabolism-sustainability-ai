@@ -1,0 +1,5 @@
+Scenario,Average_Predicted_AQI
+Baseline,158.57516
+Reduction_10%,147.59016
+Reduction_20%,142.41978
+Reduction_30%,138.54324
